@@ -1,0 +1,47 @@
+.nav-link {
+    color: white;
+}
+
+#nav-color{
+    background-color:#ECAD2F !important;
+    
+}
+
+#sign-btn{
+    color: black;
+   
+}
+
+
+#banner-text{
+    color: white !important;
+}
+
+#banner-color1{
+    background-color: black;
+}
+#banner-color2{
+    background-color: black;
+}
+
+#login{
+    color: black;
+}
+
+
+
+
+#footer{
+    background-color: #111314;
+    color: white;
+}
+
+#backgroud-img{
+    background-image: url('./asset/images/wood_background_3-wallpaper-3840x2400.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+ 
+    
+}
+

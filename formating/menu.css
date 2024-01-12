@@ -1,0 +1,22 @@
+.nav-link {
+    color: white;
+}
+
+#nav-color{
+    background-color:#ECAD2F !important;
+    
+}
+
+#sign-btn{
+    color: black;
+   
+}
+
+#background-img{
+    background-image: url('../asset/images/burg\ size1.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+ 
+    
+}
